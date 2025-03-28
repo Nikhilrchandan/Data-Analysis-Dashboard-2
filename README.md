@@ -4,6 +4,14 @@ The objective of this project is to analyze Ola ride-sharing data to gain insigh
 ## Dataset
 - <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
 
+## Background_img for Dashboard
+- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide1.PNG">Overall</a>
+- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide2.PNG">Vehicle Type</a>
+- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide3.PNG">Revenue</a>
+- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide4.PNG">Cancellation</a>
+- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide5.PNG">Ratings</a>
+
+
 ## Key Questions (KPIs)
 
 1.	Customer Insights:
@@ -20,6 +28,9 @@ o	How does driver availability affect ride cancellations?
 o	What are the revenue trends over time?
 o	How does surge pricing impact revenue?
 o	What is the average revenue per ride and per driver?
+
+## Dashboard
+- dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analytics.pbix">Dashboard</a>
 
 ## Process
 1.	Data Collection: Extract ride history, customer feedback, and driver details.
