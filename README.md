@@ -35,7 +35,7 @@ The goal is to optimize ride allocation, pricing strategies, and overall user ex
 
 ## Dashboard
 - Dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analytics.pbix">Dashboard</a>
-- View dashboard  <a href="">View dashboard </a>
+- View dashboard  <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analysis.png">View dashboard </a>
 
 ## Process
 1.	Data Collection: Extract ride history, customer feedback, and driver details.
