@@ -1,33 +1,34 @@
-# Data-Analysis-Dashboard-2
-The objective of this project is to analyze Ola ride-sharing data to gain insights into customer behavior, driver performance, and operational efficiency. The goal is to optimize ride allocation, pricing strategies, and overall user experience.
+## Data-Analysis-Dashboard-2
+The objective of this project is to analyze Ola ride-sharing data to gain insights into customer behavior, driver performance, and operational efficiency.
+The goal is to optimize ride allocation, pricing strategies, and overall user experience.
 
 ## Dataset
-- Dataset: <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
+- Dataset : <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
 
 ## Background_img for Dashboard
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide1.PNG">Overall</a>
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide2.PNG">Vehicle Type</a>
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide3.PNG">Revenue</a>
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide4.PNG">Cancellation</a>
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide5.PNG">Ratings</a>
+- Overall : <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide1.PNG">Overall</a>
+- Vehicle Type :<a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide2.PNG">Vehicle Type</a>
+- Revenue :<a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide3.PNG">Revenue</a>
+- Cancellation : <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide4.PNG">Cancellation</a>
+- Ratings : <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide5.PNG">Ratings</a>
 
 
 ## Key Questions (KPIs)
 
 1.	Customer Insights:
-o	What is the average ride duration and distance?
-o	What are the peak booking hours?
-o	What factors influence customer satisfaction ratings?
+What is the average ride duration and distance?
+What are the peak booking hours?
+What factors influence customer satisfaction ratings?
 
 3.	Driver Performance:
-o	Which drivers have the highest customer ratings?
-o	What is the average trip acceptance rate?
-o	How does driver availability affect ride cancellations?
+Which drivers have the highest customer ratings?
+What is the average trip acceptance rate?
+How does driver availability affect ride cancellations?
 
 5.	Revenue & Growth Metrics:
-o	What are the revenue trends over time?
-o	How does surge pricing impact revenue?
-o	What is the average revenue per ride and per driver?
+What are the revenue trends over time?
+How does surge pricing impact revenue?
+What is the average revenue per ride and per driver?
 
 ## Dashboard
 - dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analytics.pbix">Dashboard</a>
