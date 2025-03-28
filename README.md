@@ -15,26 +15,27 @@ The goal is to optimize ride allocation, pricing strategies, and overall user ex
 
 ## Key Questions (KPIs)
 
-# Customer Insights:
+ Customer Insights:
 
 * What is the average ride duration and distance?
 * What are the peak booking hours?
 * What factors influence customer satisfaction ratings?
 
-# Driver Performance:
+ Driver Performance:
    
 * Which drivers have the highest customer ratings?
 * What is the average trip acceptance rate?
 * How does driver availability affect ride cancellations?
 
-# Revenue & Growth Metrics:
+ Revenue & Growth Metrics:
 
 * What are the revenue trends over time?
 * How does surge pricing impact revenue?
 * What is the average revenue per ride and per driver?
 
 ## Dashboard
-- dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analytics.pbix">Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Ola_Analytics.pbix">Dashboard</a>
+- View dashboard  <a href="">View dashboard </a>
 
 ## Process
 1.	Data Collection: Extract ride history, customer feedback, and driver details.
