@@ -2,7 +2,7 @@
 The objective of this project is to analyze Ola ride-sharing data to gain insights into customer behavior, driver performance, and operational efficiency. The goal is to optimize ride allocation, pricing strategies, and overall user experience.
 
 ## Dataset
-- <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
+- Dataset: <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
 
 ## Background_img for Dashboard
 - <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard-2/blob/main/Slide1.PNG">Overall</a>
