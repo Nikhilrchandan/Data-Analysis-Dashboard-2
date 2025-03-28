@@ -16,16 +16,19 @@ The goal is to optimize ride allocation, pricing strategies, and overall user ex
 ## Key Questions (KPIs)
 
 1.	Customer Insights:
+
 What is the average ride duration and distance?
 What are the peak booking hours?
 What factors influence customer satisfaction ratings?
 
 3.	Driver Performance:
+   
 Which drivers have the highest customer ratings?
 What is the average trip acceptance rate?
 How does driver availability affect ride cancellations?
 
 5.	Revenue & Growth Metrics:
+
 What are the revenue trends over time?
 How does surge pricing impact revenue?
 What is the average revenue per ride and per driver?
